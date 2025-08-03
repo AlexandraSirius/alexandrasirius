@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello%2C+I'm+Alexandra!&animation=fadeIn&type=waving&color=0:007BFF,100:00CFFF&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello%2C+I'm+Alexandra!&animation=fadeIn&type=waving&color=0:8E2DE2,100:C471ED&height=100"/>
 </p>
+
 
 <h1 align="center">Hi, I'm Alexandra</h1>
 
