@@ -1,10 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hello%2C+I'm+Alexandra!&animation=fadeIn&type=waving&color=0:8E2DE2,100:C471ED&height=100"/>
 </p>
-
-
-<h1 align="center">Hi, I'm Alexandra</h1>
-
 <p align="center">
   <em>Systems admin in training • Creative developer • Interface explorer</em><br>
   <em>Turning control into experience⚙️✨</em>
