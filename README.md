@@ -57,25 +57,6 @@ I have solid programming experience and a network of close friends who share a p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandraSirius&layout=compact&theme=calm" alt="Top Languages"/>
 </p>
 
----
-
-### Activity Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandraSirius&theme=dark" alt="GitHub Streak"/>
-</p>
-
----
-
-### Visitor Count & Guestbook
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AlexandraSirius" alt="visitor badge"/>
-  <br><br>
-  Leave a message in my <a href="https://github.com/AlexandraSirius/AlexandraSirius/issues">guestbook</a>.
-</p>
-
----
 
 ### Let's Connect
 
